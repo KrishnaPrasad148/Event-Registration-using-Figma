@@ -1,4 +1,4 @@
-# Event Registration UI using Figma
+# EXP09 Event Registration UI using Figma
 ### DATE : 20/11/2025
 ##  AIM
 To design an interactive Event Registration interface using Figma.
@@ -42,5 +42,6 @@ The full flow worked like a mobile app.
 
 ## RESULT:
 Thus, The Event Registration UI was successfully created using Figma.
+
 
 
