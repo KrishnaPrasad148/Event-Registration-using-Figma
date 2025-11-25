@@ -32,9 +32,9 @@ The full flow worked like a mobile app.
 
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/4df947ed-9643-4f98-9315-f2dbab841db3" />
+<img width="1920" height="1028" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/a6f9f1bb-9671-4a10-b137-6c8166607137" />
 
-<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/393214cf-8a18-4666-91b5-54cb09b3a9c5" />
+<img width="1920" height="1022" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/99149dd5-13c0-4e60-8446-e80e1a74e5c3" />
 
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/46a3f040-da23-466f-964e-16b7d5890280" />
 
@@ -42,4 +42,5 @@ The full flow worked like a mobile app.
 
 ## RESULT:
 Thus, The Event Registration UI was successfully created using Figma.
+
 
